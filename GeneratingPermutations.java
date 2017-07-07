@@ -1,5 +1,5 @@
 /**
- * How to Generate Permutations
+ * Fun with Permutations
  */
 /**
  * Just like generating
@@ -7,6 +7,11 @@
  * like to share my favorite
  * ways of generating
  * permutations.
+ */
+/**
+ * *___(Need to [href=/GeneratingCombinations.java.php](generate
+ * *combinations*)? That's the
+ * [href=/GeneratingCombinations.java.php](pervious post))___*
  */
 /**
  * permutations.png
